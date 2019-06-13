@@ -7,7 +7,6 @@
     "@SS/babel-dependencies": "git+https://github.com/silversoftwerks/babel-dependencies.git",
     "@SS/html-template": "git+https://github.com/silversoftwerks/html-template.git",
     "@SS/storybook-dependencies": "git+https://github.com/silversoftwerks/storybook-dependencies.git",
-    "@SS/webpack-base": "file:///mnt/c/Users/scsil/code/silver-softwerks/webpack-base",
     "@SS/webpack-dependencies": "git+https://github.com/silversoftwerks/webpack-dependencies.git",
     "@SS/webpack-template": "git+https://github.com/silversoftwerks/webpack-template.git"
   },
